@@ -7,5 +7,5 @@ def claim_unreserved_code_school_name(name):
     
     return True
 
-claim_unreserved_code_school_name("")
-claim_unreserved_code_school_name("Ada Developers Academy")
+# claim_unreserved_code_school_name("")
+# claim_unreserved_code_school_name("Ada Developers Academy")
